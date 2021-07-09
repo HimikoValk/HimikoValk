@@ -8,3 +8,5 @@ I'm a Hobby Java-Developer who creates a lot of various projects here on GitHub 
 
 ---
 <img align="left" alt = "HimikoValk's GitHub Stats" src= "https://github-readme-stats.vercel.app/api?username=HimikoValk"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimikoValk)](https://github.com/HimikoValk/github-readme-stats)
+
