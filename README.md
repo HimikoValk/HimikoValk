@@ -7,4 +7,4 @@ I'm a Hobby Java-Developer who creates a lot of various projects here on GitHub 
 ### 📊 Statistics
 
 ---
-<img align="left" alt = "HimikoValk's GitHub Stats" src= "https://github-readme-stats.vercel.app/api?HimikoValk=anuraghazra"/>
+<img align="left" alt = "HimikoValk's GitHub Stats" src= "https://github-readme-stats.vercel.app/api?username=HimikoValk"/>
