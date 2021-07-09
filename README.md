@@ -7,5 +7,5 @@ I'm a Hobby Java-Developer who creates a lot of various projects here on GitHub 
 ### 📊 Statistics
 
 ---
-https://github-readme-stats.vercel.app/api?HimikoValk=anuraghazra
+https://github-readme-stats.vercel.app/api?HimikoValk
 
