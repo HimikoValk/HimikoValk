@@ -7,6 +7,4 @@ I'm a Hobby Java-Developer who creates a lot of various projects here on GitHub 
 ### 📊 Statistics
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HimikoValk=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<img align="left" alt = "HimikoValk's GitHub Stats" src= "https://github-readme-stats.vercel.app/api?HimikoValk=anuraghazra"/>
