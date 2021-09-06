@@ -11,7 +11,7 @@ Java(3 years)
 
 C# (2 years) 
 
-C++ (2 months)  
+C++ (7 months)  
 
 
 
