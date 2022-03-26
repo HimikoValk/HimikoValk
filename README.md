@@ -15,6 +15,8 @@ C# (2 years)
 
 C++ (7 months)  
 
+Python (2 months)
+
 
 
 ### 📊 Statistics
