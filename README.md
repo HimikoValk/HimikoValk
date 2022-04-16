@@ -17,7 +17,12 @@ C++ (7 months)
 
 Python (2 months)
 
+### Projects
 
+---
+
+* KHA CMS (Beta)
+* Hitmeme (In Progress)
 
 ### 📊 Statistics
 
@@ -26,9 +31,3 @@ Python (2 months)
 <img align="right" alt = "HimikoValk's GitHub Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=HimikoValk&exclude_repo=github-readme-stats,HimikoValk.github.io"/>
 
 
-### Projects
-
----
-
-* KHA CMS (Beta)
-* Hitmeme (In Progress)
