@@ -23,11 +23,3 @@ Python (2 months)
 
 * KHA CMS (Beta)
 * Hitmeme (In Progress)
-
-### 📊 Statistics
-
----
-<img align="left" alt = "HimikoValk's GitHub Stats" src= "https://github-readme-stats.vercel.app/api?username=HimikoValk"/>
-<img align="right" alt = "HimikoValk's GitHub Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=HimikoValk&exclude_repo=github-readme-stats,HimikoValk.github.io"/>
-
-
