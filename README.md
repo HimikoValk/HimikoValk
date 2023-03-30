@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://discord.gg/NE2vQe6w">
+<a href="kommt böse#7777">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
