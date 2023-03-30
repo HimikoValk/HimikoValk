@@ -15,7 +15,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HimikoValk&show_icons=true&theme=gotham" alt="HimikoValk" />
 
-Hi, i'm Valk, a freelance software engineer from germany.
+Hi, i'm Valk, a freelance hobby dev from germany.
   
 <br />
 <br />
