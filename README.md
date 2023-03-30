@@ -4,7 +4,8 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<br>
+<br />
+<br />
 
 My Name is Valk. 
 I'm 17 Years old and live in Germany. 
