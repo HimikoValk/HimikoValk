@@ -3,16 +3,13 @@
 <br />
 <br />
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HimikoValk&show_icons=true&theme=gotham" alt="HimikoValk" />
 
 Hi, i'm Valk, a freelance hobby dev from germany.
   
 <br />
 <br />
 
-- 💼 any work? do reach, [email](mailto:valk.naami@gmail.com) :)
+- 💼 any work? [email](mailto:valk.naami@gmail.com) :)
 
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code><br />
